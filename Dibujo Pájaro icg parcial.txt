@@ -1,0 +1,43 @@
+<svg width="562" height="326">
+
+<polygon points="220 112 197 122 216 136"
+   stroke="orange" fill="transparent" stroke-width="3"/> 
+<circle cx="270" cy="120" r="10" stroke="black" stroke-width="5"/>
+<polygon points="260 66 247 46"
+   stroke="yellow" fill="transparent" stroke-width="3"/>
+<polygon points="266 58 247 46"
+   stroke="blue" fill="transparent" stroke-width="3"/>
+<polygon points="285 40 266 60"
+   stroke="green" fill="transparent" stroke-width="3"/>
+<polygon points="285 40 279 62"
+   stroke="pink" fill="transparent" stroke-width="3"/>
+<polygon points="325 273 321 297"
+   stroke="turquoise" fill="transparent" stroke-width="3"/>
+<polygon points="321 297 310 321"
+   stroke="red" fill="transparent" stroke-width="3"/>
+<polygon points="321 297 325 324"
+   stroke="orange" fill="transparent" stroke-width="3"/>
+<polygon points="321 297 339 313"
+   stroke="yellow" fill="transparent" stroke-width="3"/>
+<polygon points="357 275 353 300"
+   stroke="blue" fill="transparent" stroke-width="3"/>
+<polygon points="357 273 353 300"
+   stroke="green" fill="transparent" stroke-width="3"/>
+<polygon points="341 322 353 300"
+   stroke="pink" fill="transparent" stroke-width="3"/>
+<polygon points="356 323 353 300"
+   stroke="turquoise" fill="transparent" stroke-width="3"/>
+<polygon points="373 316 353 300"
+   stroke="red" fill="transparent" stroke-width="3"/>
+
+
+
+<path d="M 325 273 Q 340 275 358 273" stroke="orange"/ fill="transparent" stroke-width="3"/>
+<path d="M 220 112 Q 230 80 260 66" stroke="yellow"/ fill="transparent" stroke-width="3"/>
+<path d="M 216 136 Q  220 255 325 273" stroke="blue" fill="transparent"/ stroke-width="3"/>
+<path d="M 358 273 Q  420 260  439 234" stroke="green" fill="transparent"/ stroke-width="3"/>
+<path d="M 408 150  Q  350 90 329 127 " stroke="pink" fill="transparent"/ stroke-width="3"/>
+<path d="M 408 150  Q  450 190 495 175" stroke="turquoise" fill="transparent"/ stroke-width="3"/>
+<path d="M 280 60 Q  350 80 360 113" stroke="red" fill="transparent"/ stroke-width="3"/>
+<path d="M  495 175 Q  255 300 330 125" stroke="orange" fill="transparent"/ stroke-width="3"/>
+<path d="M  439 234 Q  450 220 480 183" stroke="yellow" stroke-width="3"/>
